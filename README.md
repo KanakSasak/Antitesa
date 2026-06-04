@@ -204,14 +204,3 @@ Antitesa helps security teams continuously challenge their defensive assumptions
 
 Use Antitesa only in environments where you have explicit authorization. Operators are responsible for scope, rules of engagement, safety, approvals, and legal compliance.
 
----
-
-## License
-
-Add your project license here.
-
----
-
-## Maintainers
-
-Add maintainer and contribution information here.
