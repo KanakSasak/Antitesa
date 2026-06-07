@@ -1,4 +1,4 @@
-![Antitesa Banner](https://raw.githubusercontent.com/KanakSasak/antitesa-web-profile/main/src/assets/images/antitesa_logo_1780396794601.png)
+![Antitesa Banner](./banner-repo-antitesa.png)
 
 # Antitesa — Adversarial Exposure Validation
 
