@@ -1,3 +1,5 @@
+![Antitesa Banner](https://raw.githubusercontent.com/KanakSasak/antitesa-web-profile/main/src/assets/images/antitesa_logo_1780396794601.png)
+
 # Antitesa — Adversarial Exposure Validation
 
 **Challenge your defensive assumptions before real adversaries do.**
@@ -18,6 +20,75 @@ Antitesa is an adversarial exposure validation platform that safely emulates att
 
 ---
 
+## Antitesa Platform
+
+### Running Campaign
+Track live campaign execution, status, and telemetry collection while the AEV workflow validates controls in sequence.
+
+![Antitesa running campaign demo](./screenshots/Antitesa-runing-campaign.png)
+
+
+
+### Campaign Pack
+Group adversary behaviors into reusable validation packs so teams can run repeatable AEV campaigns by scope or threat model.
+
+![Antitesa campaign pack demo](./screenshots/Antitesa-campaign-pack.png)
+
+
+
+### Threat Actors
+Translate threat actor behavior into validation priorities that security teams can test, measure, and improve over time.
+
+![Antitesa threat actors demo](./screenshots/Antitesa-threat-actors.png)
+
+
+
+### IoC Profile
+Attach indicators, observables, and campaign context to validation workflows so detections can be tested against concrete evidence.
+
+![Antitesa IoC profile demo](./screenshots/Antitesa-ioc-profile.png)
+
+
+
+
+### Exploit Catalog
+Browse approved behavior modules and map them to ATT&CK techniques before placing them into a scoped AEV campaign.
+
+![Antitesa exploit catalog demo](./screenshots/Antitesa-list-exploits.png)
+
+
+
+### Payload Lab
+Prepare controlled payloads and command inputs for approved validation runs without turning the platform into an unrestricted exploit tool.
+
+![Antitesa payload lab demo](./screenshots/Antitesa-payloads.png)
+
+
+
+
+### Detection Results
+Review campaign coverage, open gaps, and evidence for executed adversary behavior across IT and OT validation scopes.
+
+![Antitesa detection results demo](./screenshots/Antitesa-detection-result.png)
+
+
+
+### MITRE Coverage
+Measure detection strength by ATT&CK tactic and technique to show where enterprise and industrial visibility is strong or missing.
+
+![Antitesa MITRE coverage demo](./screenshots/Antitesa-mitre-coverage.png)
+
+
+
+### Agent Executor
+Register and monitor approved executors across IT hosts and controlled OT systems before launching validation work.
+
+![Antitesa agent executor demo](./screenshots/Antitesa-agent-executor.png)
+
+
+
+---
+
 ## Why Antitesa
 
 Security teams already have tools, rules, dashboards, and threat intelligence. But the real question is:
@@ -26,12 +97,12 @@ Security teams already have tools, rules, dashboards, and threat intelligence. B
 
 Antitesa helps teams prove:
 
-* Did the adversary behavior execute?
-* Did the environment generate telemetry?
-* Did the SIEM, EDR, or collector detect it?
-* Was the result a strong alert or only weak evidence?
-* Was the activity missed, blocked, failed, or invisible?
-* What detection gap should be fixed next?
+- Did the adversary behavior execute?
+- Did the environment generate telemetry?
+- Did the SIEM, EDR, or collector detect it?
+- Was the result a strong alert or only weak evidence?
+- Was the activity missed, blocked, failed, or invisible?
+- What detection gap should be fixed next?
 
 ---
 
@@ -41,14 +112,14 @@ Antitesa turns detection validation into a repeatable security program.
 
 It helps organizations:
 
-* Prove control effectiveness with evidence.
-* Measure MITRE ATT&CK coverage.
-* Prioritize detection engineering work.
-* Reduce false confidence in untested rules.
-* Validate ransomware readiness safely.
-* Turn threat intelligence into real validation campaigns.
-* Support SOC, Purple Team, audit, and leadership reporting.
-* Continuously test defenses as environments and rules change.
+- Prove control effectiveness with evidence.
+- Measure MITRE ATT&CK coverage.
+- Prioritize detection engineering work.
+- Reduce false confidence in untested rules.
+- Validate ransomware readiness safely.
+- Turn threat intelligence into real validation campaigns.
+- Support SOC, Purple Team, audit, and leadership reporting.
+- Continuously test defenses as environments and rules change.
 
 ---
 
@@ -140,16 +211,16 @@ flowchart LR
 
 ## Use Cases
 
-* Continuous detection validation
-* Purple Team operations
-* Detection engineering QA
-* MITRE ATT&CK coverage measurement
-* Threat-intelligence-driven validation
-* APT emulation
-* Safe ransomware readiness testing
-* OT/ICS detection validation
-* Security control regression testing
-* SOC and leadership reporting
+- Continuous detection validation
+- Purple Team operations
+- Detection engineering QA
+- MITRE ATT&CK coverage measurement
+- Threat-intelligence-driven validation
+- APT emulation
+- Safe ransomware readiness testing
+- OT/ICS detection validation
+- Security control regression testing
+- SOC and leadership reporting
 
 ---
 
@@ -181,12 +252,12 @@ Antitesa is intended for authorized security validation only.
 
 It is not designed to be:
 
-* An unrestricted exploit framework
-* An autonomous offensive platform
-* A destructive ransomware tool
-* A credential theft tool
-* A default OT write-operation tool
-* A replacement for human approval and rules of engagement
+- An unrestricted exploit framework
+- An autonomous offensive platform
+- A destructive ransomware tool
+- A credential theft tool
+- A default OT write-operation tool
+- A replacement for human approval and rules of engagement
 
 Every campaign should be scoped, approved, logged, and reviewed.
 
@@ -204,3 +275,14 @@ Antitesa helps security teams continuously challenge their defensive assumptions
 
 Use Antitesa only in environments where you have explicit authorization. Operators are responsible for scope, rules of engagement, safety, approvals, and legal compliance.
 
+---
+
+## License
+
+Add your project license here.
+
+---
+
+## Maintainers
+
+Add maintainer and contribution information here.
